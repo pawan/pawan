@@ -7,4 +7,3 @@ from :india:
 - 💬 Ask me about magento!
 - 📫 How to reach me: mail@pawan.info
 - :link: https://pawan.info/
-- :briefcase: Currently working as a `Application Development Senior Analyst` at [Accenture](https://www.linkedin.com/company/accenture)
