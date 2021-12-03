@@ -7,3 +7,5 @@ from :india:
 - 💬 Ask me about magento!
 - 📫 How to reach me: mail@pawan.info
 - :link: https://pawan.info/
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pawan&count_private=true&theme=tokyonight&showicons=true)]()
