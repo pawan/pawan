@@ -1,10 +1,9 @@
 ### Hi there 👋 I am Pawan
 
-- 🔭 Experienced Magento Developer with 7+ years experience
-from :india:
-- :trophy: Magento 2 Certified Professional Front End Developer.
-- :trophy: Adobe Certified Professional— Magento Commerce Developer
-- 👯 Skilled in Magento 1 & 2, PHP, jQuery and MySql
+- 🔭 Experienced Magento Developer with 8+ years experience from :india:
+- :trophy: Magento 2 Certified Professional Front End Developer.[Link](https://www.credly.com/users/pawankparmar/badges)
+- :trophy: Adobe Certified Professional— Magento Commerce Developer. [Link](https://www.credly.com/users/pawankparmar/badges)
+- 👯 Skilled in Magento 2 & 1, PHP, jQuery and MySql
 - 💬 Ask me about magento!
 - 📫 How to reach me: mail@pawan.info
 - :link: https://pawan.info/
