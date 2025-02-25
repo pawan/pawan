@@ -4,8 +4,8 @@
 <p align="left"> :trophy: [Adobe Certified Professional— Magento Commerce Developer.](https://www.credly.com/users/pawankparmar/badges)</p>
 <p align="left"> 👯 Skilled in Magento 2 & 1, PHP, jQuery and MySql</p>
 <p align="left"> 💬 Ask me about magento!</p>
-<p align="left"> 📫 How to reach me: mail@pawan.info</p>
-<p align="left"> :link: https://pawan.info/</p>
+<p align="left"> 📫 How to reach me: mail@pawan.co.in</p>
+<p align="left"> :link: https://pawan.co.in/</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan&label=Profile%20views&color=0e75b6&style=flat" alt="pawan" /> </p>
 
